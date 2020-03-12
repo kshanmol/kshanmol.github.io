@@ -1,0 +1,15 @@
+body {
+	font: 1.2em/1.5em sans-serif;
+	max-width: 50em;
+	margin: 1em auto;
+}
+
+header {
+	font: 1.2em/1.5em Optima, Linux Biolinum, Candara, sans-serif;
+	text-align: left;
+	margin-top: 5em;
+}
+
+nav {
+    text-align: left;
+}
